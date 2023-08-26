@@ -1,4 +1,4 @@
 # Network Analytics Assignment 
 
-Topic: Visualising asset price correlations
+**Topic:** Visualising asset price correlations
  
