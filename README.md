@@ -1,2 +1,4 @@
-# Visualising Asset Price Correlations
+# Network Analytics Assignment 
+
+Topic: Visualising asset price correlations
  
